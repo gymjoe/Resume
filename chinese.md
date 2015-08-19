@@ -15,8 +15,8 @@ E-mail：joe.movoto@hotma il.com
 ------- | -------
 1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
 2. 专业背景 | 一款强大的图片滤镜工具, 支持自定义滤镜, 可用来实时处理图片和视频流, 作者是 SonoPlot 公司的 CTO, 在很小的时候便开始接触编程, 他在 [SO](http://stackoverflow.com/users/19679/brad-larson) 上面的回答也有很多值得阅读, GPUImage 这个项目从 2012 年开始, 使用 OpenGL 图形程序接口编写, 性能非常好, 现在很多 iOS 程序员都用它来实现 iOS 的模糊效果
-3. [SDWebImage](https://github.com/rs/SDWebImage) | 作者 Olivier Poitrey 是 Dailymotion 的 CTO, 拥有多个不错的开源项目, 此项目常用于对从 Web 端接受到的图片进行缓存, 是 UIImageView 的扩展, 应用起来比较简单
-4. [RestKit](https://github.com/RestKit/RestKit) | 主要用于 iOS 上网络通信, 允许与 RESTful Web 服务交互, 常用于处理 API, 解析 JSON, 映射响应对象等操作, 简单易用, 方便你把所有精力都放在对数据的操作上
+3. 语言能力 | 作者 Olivier Poitrey 是 Dailymotion 的 CTO, 拥有多个不错的开源项目, 此项目常用于对从 Web 端接受到的图片进行缓存, 是 UIImageView 的扩展, 应用起来比较简单
+4. 年薪要求 | 主要用于 iOS 上网络通信, 允许与 RESTful Web 服务交互, 常用于处理 API, 解析 JSON, 映射响应对象等操作, 简单易用, 方便你把所有精力都放在对数据的操作上
 5. [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 "An open source project that exemplifies this brave new era for Objective-C", 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇[文章](http://www.devtang.com/blog/2014/02/11/reactivecocoa-introduction)
 6. [three20](https://github.com/facebookarchive/three20) | 由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 [PR](https://github.com/facebookarchive/three20/pull/832?utm_source=iOS+Dev+Weekly&utm_campaign=46a7deb647-iOS_Dev_Weekly_Issue_100&utm_medium=email&utm_term=0_7bda94b7ca-46a7deb647-299428269) 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 [Nimbus](https://github.com/jverkoey/nimbus), 算是 three20 的一个替代品
 7. [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 作者 Matej Bukovinski 是一位全栈工程师, UI/UX 设计师,  此项目是一款提示框第三方库, 帮助开发者快速应用到项目中)
