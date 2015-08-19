@@ -27,7 +27,7 @@ E-mail：joe.movoto@hotma il.com
 
 
 #工作经验
-公司 | 项目信息
+公司 - 时间 | 项目信息
 ------- | -------
 1. 上海壳际网络科技 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
 2. 创业、游学 | A. 对软件开发的整个生命周期的每个过程边界和职责有精确的认知与把握, 优秀的项目风险控制。a.项目管理-需求分析-程序架构设计-代码开发-测试管理.        B. 超过3年的项目和10-20人的团队管理经验。                  C. 10年以上的开发经验, 曾是硅谷创业团队中最优秀的技术人员. 
