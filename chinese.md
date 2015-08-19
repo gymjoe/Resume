@@ -11,7 +11,8 @@ E-mail:  joe.movoto@hotmail.com
 年   薪:  40-60W （基本要求）.
 
 
-工作职责背景:技术开发 -> 程序设计 -> 技术Leader -> 项目经理 -> 部门经理（CTO）-> 咨询顾问 -> 创业 -> iOS研发。
+工作职责背景:
+技术开发 -> 程序设计 -> 技术Leader -> 项目经理 -> 部门经理（CTO）-> 咨询顾问 -> 创业 -> iOS研发。
 职业定位为移动方向的 Full Stack Developer.
 ```
 
