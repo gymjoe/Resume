@@ -9,7 +9,23 @@
 Mobile：+86 - 18501758458
 
 E-mail：joe.movoto@hotma il.com
+1.	_刘雅芳，张俊辉. 抗干扰角度分析六层板的布线技巧. 天津光电通信技术有限公司技术中心._
 
+	介绍了六层板的布线技巧，非常实用，画多层板的强烈推荐。
+
+2.	_AN1258, "Op Amp Precision Design: PCB Layout Techniques", Microchip._
+
+	我就是看着这个做运放的PCB的布局布线的，看了很多遍。
+
+3.	_John Ardizzoni. Apractical Guide to High-Speed Printed-Cricuit-Board Layout. Analog Dialogue._
+
+	高速PCB设计的布局方法，简单看了看，老外写的东西含金量就是高。
+
+4.	_美国国家半导体公司. 简单开关电源PCB布局指南. 2002年7月._
+
+	这是一份关于开关电源的布局布线技巧，文章内有一些理论性的解释。
+
+5.	_科通集团Cadence Allegro基础培训. 共6期._
 
  | 基本信息
 ------- | -------
