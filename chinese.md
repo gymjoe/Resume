@@ -4,8 +4,11 @@
 
 林英强-Joe  
 10年以上工作经验  |
+
 居住地：Shanghai-闵行区
+
 Mobile：+86 - 18501758458
+
 E-mail：joe.movoto@hotmail.com
 
 
