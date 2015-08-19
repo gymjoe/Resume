@@ -4,11 +4,11 @@
 
 林英强-Joe    (本科)
 ```
-居住地： Shanghai-闵行区
-IT经验:  10年以上 
+居住地址: Shanghai-闵行区
+IT 经验:  10年以上 
 Mobile:  +86 18501758458
 E-mail:  joe.movoto@hotmail.com
-年  薪:  40-60W （基本要求）.
+年   薪:  40-60W （基本要求）.
 ```
 
 
