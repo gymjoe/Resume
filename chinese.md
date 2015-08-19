@@ -14,7 +14,10 @@ E-mail：joe.movoto@hotma il.com
 项目名称 | 项目信息
 ------- | -------
 1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
-2. 专业背景 | 一款强大的图片滤镜工具, 支持自定义滤镜, 可用来实时处理图片和视频流, 作者是 SonoPlot 公司的 CTO, 在很小的时候便开始接触编程, 他在 [SO](http://stackoverflow.com/users/19679/brad-larson) 上面的回答也有很多值得阅读, GPUImage 这个项目从 2012 年开始, 使用 OpenGL 图形程序接口编写, 性能非常好, 现在很多 iOS 程序员都用它来实现 iOS 的模糊效果
+2. 专业背景 | A. 对软件开发的整个生命周期的每个过程边界和职责有精确的认知与把握, 优秀的项目风险控制。 
+a.项目管理-需求分析-程序架构设计-代码开发-测试管理. 
+B. 超过3年的项目和10-20人的团队管理经验。 
+C. 10年以上的开发经验, 曾是硅谷创业团队中最优秀的技术人员. 
 3. 语言能力 | 作者 Olivier Poitrey 是 Dailymotion 的 CTO, 拥有多个不错的开源项目, 此项目常用于对从 Web 端接受到的图片进行缓存, 是 UIImageView 的扩展, 应用起来比较简单
 4. 年薪要求 | 主要用于 iOS 上网络通信, 允许与 RESTful Web 服务交互, 常用于处理 API, 解析 JSON, 映射响应对象等操作, 简单易用, 方便你把所有精力都放在对数据的操作上
 5. [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 "An open source project that exemplifies this brave new era for Objective-C", 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇[文章](http://www.devtang.com/blog/2014/02/11/reactivecocoa-introduction)
