@@ -12,5 +12,15 @@ Mobile：+86 - 18501758458
 E-mail：joe.movoto@hotmail.com
 
 
-自我评价
+项目名称 | 项目信息
 ------- | -------
+1. [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 作者是 NSHipster 的博主, iOS 开发界的大神级人物, 毕业于卡内基·梅隆大学, 开源了许多牛逼的项目, 这个便是其中之一, AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
+2. [GPUImage](https://github.com/BradLarson/GPUImage) | 一款强大的图片滤镜工具, 支持自定义滤镜, 可用来实时处理图片和视频流, 作者是 SonoPlot 公司的 CTO, 在很小的时候便开始接触编程, 他在 [SO](http://stackoverflow.com/users/19679/brad-larson) 上面的回答也有很多值得阅读, GPUImage 这个项目从 2012 年开始, 使用 OpenGL 图形程序接口编写, 性能非常好, 现在很多 iOS 程序员都用它来实现 iOS 的模糊效果
+3. [SDWebImage](https://github.com/rs/SDWebImage) | 作者 Olivier Poitrey 是 Dailymotion 的 CTO, 拥有多个不错的开源项目, 此项目常用于对从 Web 端接受到的图片进行缓存, 是 UIImageView 的扩展, 应用起来比较简单
+4. [RestKit](https://github.com/RestKit/RestKit) | 主要用于 iOS 上网络通信, 允许与 RESTful Web 服务交互, 常用于处理 API, 解析 JSON, 映射响应对象等操作, 简单易用, 方便你把所有精力都放在对数据的操作上
+5. [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 "An open source project that exemplifies this brave new era for Objective-C", 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇[文章](http://www.devtang.com/blog/2014/02/11/reactivecocoa-introduction)
+6. [three20](https://github.com/facebookarchive/three20) | 由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 [PR](https://github.com/facebookarchive/three20/pull/832?utm_source=iOS+Dev+Weekly&utm_campaign=46a7deb647-iOS_Dev_Weekly_Issue_100&utm_medium=email&utm_term=0_7bda94b7ca-46a7deb647-299428269) 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 [Nimbus](https://github.com/jverkoey/nimbus), 算是 three20 的一个替代品
+7. [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 作者 Matej Bukovinski 是一位全栈工程师, UI/UX 设计师,  此项目是一款提示框第三方库, 帮助开发者快速应用到项目中)
+8. [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 作者是 Coursera 的 iOS 工程师, 该项目创作灵感来自于 Ruby on Rails 的 Active Record, 主要为方便操作 CoreData 而生, 帮助清除 CoreData 引用的代码, 协助方便 CoreData 的工作
+9. [FMDB](https://github.com/ccgus/fmdb) | 一个对 SQLite 进行封装的库, 使用起来方便, 简单
+10. [Mantle](https://github.com/Mantle/Mantle) | 作者是 GitHub 的员工, 文档写的很清楚: Mantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application, 主要用来将 JSON 数据模型化为 Model 对象, 唱吧在前段时间也改用 Mantle 了.
