@@ -4,7 +4,7 @@
 
 林英强-Joe    (本科)
 ```
-居住地址: Shanghai-闵行区
+居住地址:  Shanghai-闵行区
 IT 经验:  10年以上 
 Mobile:  +86 18501758458
 E-mail:  joe.movoto@hotmail.com
