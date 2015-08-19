@@ -28,9 +28,9 @@ E-mail：joe.movoto@hotma il.com
 
 #工作经验
 公司 - 时间 | 项目信息
-------- | -------
-1. 上海壳际网络科技 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
-2. 创业、游学 | A. 对软件开发的整个生命周期的每个过程边界和职责有精确的认知与把握, 优秀的项目风险控制。a.项目管理-需求分析-程序架构设计-代码开发-测试管理.        B. 超过3年的项目和10-20人的团队管理经验。                  C. 10年以上的开发经验, 曾是硅谷创业团队中最优秀的技术人员. 
+---------------- | -------
+1. 上海壳际网络科技    | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
+2. 创业、游学          | A. 对软件开发的整个生命周期的每个过程边界和职责有精确的认知与把握, 优秀的项目风险控制。a.项目管理-需求分析-程序架构设计-代码开发-测试管理.        B. 超过3年的项目和10-20人的团队管理经验。                  C. 10年以上的开发经验, 曾是硅谷创业团队中最优秀的技术人员. 
 3. Celnet  | 在纯英文工作环境的美资公司工作5年，平时英文交流沟通没问题。 比较偏爱英文的工作环境
 4. Movoto  | 40-60W
 5. 北京浩瑞恒业科技 | 由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 "An open source project that exemplifies this brave new era for Objective-C", 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇[文章](http://www.devtang.com/blog/2014/02/11/reactivecocoa-introduction)
