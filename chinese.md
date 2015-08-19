@@ -2,11 +2,13 @@
 
 *若有任何问题可通过Wechat(joe_lin109)联系我*
 
-林英强-Joe  
+林英强-Joe    (Shanghai-闵行区)
+
 10年以上工作经验 
-居住地：Shanghai-闵行区|
+
 Mobile：+86 - 18501758458
-E-mail：joe.movoto@hotmail.com
+
+E-mail：joe.movoto@hotma il.com
 
 
 项目名称 | 项目信息
