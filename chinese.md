@@ -13,13 +13,12 @@ E-mail：joe.movoto@hotma il.com
 
  | 基本信息
 ------- | -------
-1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
+1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件； E. 深研系统程序架构及设计模式MVC等, 深入理解其核心精髓. 使用过不同的语言开发体系.                                                 F. 高考数学满分. 逻辑思维缜密, 积极严谨的工作态度. 且谦和易沟通.                                   H. 代码质量比90%以上的人要好. 
 2. 专业背景 | A. 对软件开发的整个生命周期的每个过程边界和职责有精确的认知与把握, 优秀的项目风险控制。a.项目管理-需求分析-程序架构设计-代码开发-测试管理.        B. 超过3年的项目和10-20人的团队管理经验。                  C. 10年以上的开发经验, 曾是硅谷创业团队中最优秀的技术人员. 
 3. 语言能力 | 在纯英文工作环境的美资公司工作5年，平时英文交流沟通没问题。 比较偏爱英文的工作环境
 4. 年薪要求 | 40-60W
-5. [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 "An open source project that exemplifies this brave new era for Objective-C", 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇[文章](http://www.devtang.com/blog/2014/02/11/reactivecocoa-introduction)
-6. [three20](https://github.com/facebookarchive/three20) | 由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 [PR](https://github.com/facebookarchive/three20/pull/832?utm_source=iOS+Dev+Weekly&utm_campaign=46a7deb647-iOS_Dev_Weekly_Issue_100&utm_medium=email&utm_term=0_7bda94b7ca-46a7deb647-299428269) 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 [Nimbus](https://github.com/jverkoey/nimbus), 算是 three20 的一个替代品
-7. [MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 作者 Matej Bukovinski 是一位全栈工程师, UI/UX 设计师,  此项目是一款提示框第三方库, 帮助开发者快速应用到项目中)
+5.  | 
+
 
  
 
@@ -29,10 +28,26 @@ E-mail：joe.movoto@hotma il.com
 #工作经验
 公司 - 时间 | 项目信息
 ---------------- | -------
-1. 上海壳际网络科技    | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;  B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等;  D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
-2. 创业、游学          | A. 对软件开发的整个生命周期的每个过程边界和职责有精确的认知与把握, 优秀的项目风险控制。a.项目管理-需求分析-程序架构设计-代码开发-测试管理.        B. 超过3年的项目和10-20人的团队管理经验。                  C. 10年以上的开发经验, 曾是硅谷创业团队中最优秀的技术人员. 
-3. Celnet  | 在纯英文工作环境的美资公司工作5年，平时英文交流沟通没问题。 比较偏爱英文的工作环境
-4. Movoto  | 40-60W
-5. 北京浩瑞恒业科技 | 由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 "An open source project that exemplifies this brave new era for Objective-C", 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇[文章](http://www.devtang.com/blog/2014/02/11/reactivecocoa-introduction)
-6. [three20](https://github.com/facebookarchive/three20) | 由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 [PR](https://github.com/facebookarchive/three20/pull/832?utm_source=iOS+Dev+Weekly&utm_campaign=46a7deb647-iOS_Dev_Weekly_Issue_100&utm_medium=email&utm_term=0_7bda94b7ca-46a7deb647-299428269) 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 [Nimbus](https://github.com/jverkoey/nimbus), 算是 three20 的一个替代品
+1. 上海壳际网络科技    | 工作职责：1.  移动项目:IOS进度跟踪及技术研发  
+2. 创业、游学          |  --- 
+3. Celnet  | 管理整个技术部门（上海及武汉分公司） 工作职责：1.管理 Salesfoce 咨询开发维护团队; Java开发的 CRM平台的技术团队; 客户售后服务维护团队。 2.建立标准的软件开发流程与规范。 监控、指导项目的开发过程及规范；培养与指导初级的项目经理。3.确认与控制项目核心技术/业务问题的解决方案的风险。4.需要展现优秀的谈判技巧与沟通能力及服务意识，负责与重要客户进行协调沟通，建立良好与稳定的合作关系。5.有效控制客户需求，跟踪与监控项目负责人遵守项目管理方法，控制实施交付风险，确保项目质量及交付时间。 6.负责团队文化建设，激励每个员工。 确保团队员工具备高效与积极的工作态度。 7.提供支持与协调销售及售前团队，进行新客户的拓展。
+
+4. Movoto  | www.movoto.com，这是一个大型的美国房地产网站。 总部在美国加州，高层人员基本都毕业于斯坦福。 技术研发中心在上海。我作为上海技术研发中心的负责人，为整个项目（前台+后台）的交付质量与交付时间负责。 
+  工作职责：1.CEO/VP/PM都在美国。我需要与VP和CEO确定项目进度目标，然后与PM确认具体需求。2.分配和跟踪任务。对于重要模块，检查核实开发人员的分析和设计思路。检查重要模块的具体代码。3.亲自编写某些重要模块的具体代码。同时得对整个项目的进度和质量结果负责。 
+
+5. 北京浩瑞恒业科技 | 这是对软件工程整个生命周期研究和应用最彻底的公司。同时还把软件行业怎样工业化做为伟大目标来推动的公司。 
+ 
+工作职责： 
+1.研究和开发软件工程管理体系平台Mapper，对各种项目进行规范化系统分析。 
+2.做系统分析人员和开发人员中间协调。负责外包部分，与外包人员进行沟通协调 
+3.亲自编写开发代码。 
+ 项目经验：（.NET) 
+软件管理体系平台Mapper4.0 
+主要模块如下： 
+1.项目初始化报告，战略计划、可行性分析。 
+2.用户模型、用户岗位、用户组织机构 
+3.初始化模型、需求目录、业务需求模型、概念域和包 
+4.数据流模型、系统分析完成 
+5.对话模型、功能模型,数据模型，系统设计文档（业务流程图 + ER图） 
+6.  | 
 
