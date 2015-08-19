@@ -13,7 +13,7 @@ E-mail：joe.movoto@hotma il.com
 
 项目名称 | 项目信息
 ------- | -------
-1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制. 
+1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制;
 B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； 
 C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等 
 D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
