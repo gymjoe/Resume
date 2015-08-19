@@ -12,7 +12,7 @@ E-mail:  joe.movoto@hotma il.com
 ```
 
 
-#自我评价
+=自我评价
 ```
 1. iOS开发能力 (OC + Swift)
 A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制. 
