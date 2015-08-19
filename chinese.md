@@ -13,7 +13,10 @@ E-mail：joe.movoto@hotma il.com
 
 项目名称 | 项目信息
 ------- | -------
-1. [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 作者是 NSHipster 的博主, iOS 开发界的大神级人物, 毕业于卡内基·梅隆大学, 开源了许多牛逼的项目, 这个便是其中之一, AFNetworking 采用 NSURLConnection + NSOperation, 主要方便与服务端 API 进行数据交换, 操作简单, 功能强大, 现在许多人都用它取代 ASIHTTPRequest
+1. IOS(Swift)开发能力 | A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制. 
+B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； 
+C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等 
+D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
 2. [GPUImage](https://github.com/BradLarson/GPUImage) | 一款强大的图片滤镜工具, 支持自定义滤镜, 可用来实时处理图片和视频流, 作者是 SonoPlot 公司的 CTO, 在很小的时候便开始接触编程, 他在 [SO](http://stackoverflow.com/users/19679/brad-larson) 上面的回答也有很多值得阅读, GPUImage 这个项目从 2012 年开始, 使用 OpenGL 图形程序接口编写, 性能非常好, 现在很多 iOS 程序员都用它来实现 iOS 的模糊效果
 3. [SDWebImage](https://github.com/rs/SDWebImage) | 作者 Olivier Poitrey 是 Dailymotion 的 CTO, 拥有多个不错的开源项目, 此项目常用于对从 Web 端接受到的图片进行缓存, 是 UIImageView 的扩展, 应用起来比较简单
 4. [RestKit](https://github.com/RestKit/RestKit) | 主要用于 iOS 上网络通信, 允许与 RESTful Web 服务交互, 常用于处理 API, 解析 JSON, 映射响应对象等操作, 简单易用, 方便你把所有精力都放在对数据的操作上
