@@ -2,10 +2,11 @@
 
 *若有任何问题可通过Wechat (joe_lin109) 联系我*
 
-林英强-Joe    (本科)
+林英强-Joe 
 ```
+10年以上IT工作经验  |  男  |  1980年  |  172cm  | 本科
+
 居住地址:  Shanghai-闵行区
-IT 经验:  10年以上 
 Mobile:  +86 18501758458
 E-mail:  joe.movoto@hotmail.com
 年   薪:  40-60W （基本要求）.
