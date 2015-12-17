@@ -9,12 +9,12 @@
 居住地址:  Shanghai-闵行区
 Mobile:  +86 18501758458
 E-mail:  joe.movoto@hotmail.com
-年   薪:  40-60W （基本要求）.
+年   薪:  40-80W （基本要求）.
 
 
 工作职责背景:
 技术开发 -> 程序设计 -> 技术Leader -> 项目经理 -> 部门经理（CTO）-> 咨询顾问 -> 创业 -> iOS研发。
-职业定位为移动方向的 Full Stack Developer(iOS + Android + RESTful API).
+职业定位为移动方向的 APP Full Stack Developer(iOS + Android + RESTful API).
 ```
 
 
@@ -64,7 +64,7 @@ Salesfoce上海合作伙伴。 提供Salesfoce的咨询开发维护，及Java开
 管理整个技术部门（上海及武汉分公司）
     
 ```
-工作职责： （CTO, 项目经理, 咨询顾问）
+工作职责： （CTO, Senior Project Manager, 咨询顾问）
 1.管理 Salesfoce 咨询开发维护团队; Java开发的 CRM平台的技术团队; 客户售后服务维护团队。 
 2.建立标准的软件开发流程与规范。 监控、指导项目的开发过程及规范；培养与指导初级的项目经理。 
 3.确认与控制项目核心技术/业务问题的解决方案的风险。 
