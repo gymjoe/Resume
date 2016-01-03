@@ -14,8 +14,9 @@ E-mail:  joe.movoto@hotmail.com
 
 工作职责背景:
 技术开发 -> 程序设计 -> 技术Leader -> 项目经理 -> 部门经理（CTO）-> 咨询顾问 -> 创业 -> iOS研发。
-职业定位为技术管理或移动APP的 Full Stack Developer(iOS + Unity + RESTful API).
+职业定位：技术管理， 及移动方向的 Full Stack Developer(iOS + Unity + RESTful API).
 ```
+A. 产品需求分析 - （专家）
 
 
 ###技能评价
