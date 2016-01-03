@@ -19,7 +19,7 @@ E-mail:  joe.movoto@hotmail.com
 技术管理， 及移动方向的 Full Stack Developer(iOS + Unity + RESTful API).
 
 能力评估：
-A. 产品需求分析 - （专家级别）
+A. 产品需求分析  - （专家级别）
 B. 项目管理     - （专家级别）
 - 需求平衡与控制，风险评估与控制，进度控制，质量控制
 
