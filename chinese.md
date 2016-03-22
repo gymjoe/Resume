@@ -41,21 +41,12 @@ D. 高考数学满分. 逻辑思维缜密, 积极严谨的工作态度. 且谦�
 在纯英文工作环境的美资公司工作5年，平时英文交流沟通没问题。 
 ```
 
-###技能评价
-```
-1. iOS开发能力 (OC + Swift)
-A .熟练使用 ASIHTTPrequest, AFNetworking etc的常规API及连接池控制, 断点续传等等网络编程. 及数据缓存机制. 
-B. 精通数据库, Javascript,SQL语言等. 熟练掌握SQLite、CoreData、XML/JSON解析等开发技巧； 
-C. 熟练掌握多线程开发机制, Grand Central Dispatch (GCD) + Blocks等 
-D. 熟练掌握Cocoa Touch中的Delegate, KVO, Notification 等机制, 经常运用纯代码编写自定义及各种复杂的UI控件 
 
-E. 深研系统程序架构及设计模式MVC等, 深入理解其核心精髓. 使用过不同的语言开发体系. 
-
-    
     
 ###工作经验
 ####2014/09– At present：上海壳际网络  
-```
+
+``` 
 工作职责：
 1.  移动APP的架构设计及技术研发 
 
