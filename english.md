@@ -1,4 +1,4 @@
-## Joe Chinese Resume
+## Joe English Resume
 
 *若有任何问题可通过Wechat (joe_lin109) 联系我*
 
